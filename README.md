@@ -1,4 +1,5 @@
-![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/e8e7541e-4fca-43cb-a47c-016118bbf80a)
+![240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890](https://github.com/user-attachments/assets/983792f0-014c-4be1-90e0-c4999b1ac19e)
+
 
 ## Hi there 👋
 📫 How to reach me:
