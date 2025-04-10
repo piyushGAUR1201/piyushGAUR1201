@@ -1,5 +1,11 @@
-## Hi there 👋
+![240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890](https://github.com/user-attachments/assets/27de450c-c711-4a1e-8352-ed521cff8144)
 
+## Hi there 👋
+📫 How to reach me:
+  e-mail : gaurpiyush.1201@gmail.com
+  linkedin : https://www.linkedin.com/in/piyush-gaur-695637255/
+  
+🌱 Currently learning Web Development & DSA — sharing my journey, projects, and learnings right here 🚀📚
 <!--
 **piyushGAUR1201/piyushGAUR1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
